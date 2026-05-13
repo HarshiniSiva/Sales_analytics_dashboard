@@ -18,6 +18,7 @@ Which products generate the most revenue?
 
 Which countries contribute most to sales?
 
+
 📂 Project Files
 
 
@@ -26,6 +27,7 @@ task1.csv	Dataset used for analysis
 Sales_Revenue_Dashboard.ipynb	Jupyter Notebook with code and charts
 
 screenshots	Output images of KPIs and charts
+
 
 🧮 KPIs Calculated
 
@@ -38,6 +40,7 @@ Total Quantity Sold
 Revenue was calculated using:
 
 Revenue = Quantity Ordered × Price Each
+
 
 
 📈 Visualizations Created
