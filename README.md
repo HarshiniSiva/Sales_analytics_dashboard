@@ -7,16 +7,26 @@ The goal of this task is to generate business insights by calculating KPIs and v
 The dashboard answers the following business questions:
 
 What is the total revenue generated?
+
 How many orders were placed?
+
 How many products were sold?
+
 How does revenue change month by month?
+
 Which products generate the most revenue?
+
 Which countries contribute most to sales?
+
 📂 Project Files
-File	Description
+
+
 task1.csv	Dataset used for analysis
+
 Sales_Revenue_Dashboard.ipynb	Jupyter Notebook with code and charts
+
 screenshots	Output images of KPIs and charts
+
 🧮 KPIs Calculated
 
 The following Key Performance Indicators (KPIs) were calculated:
