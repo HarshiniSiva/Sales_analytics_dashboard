@@ -28,6 +28,7 @@ Total Quantity Sold
 Revenue was calculated using:
 
 Revenue = Quantity Ordered × Price Each
+
 📈 Visualizations Created
 1️⃣ Revenue Trend Over Time
 
